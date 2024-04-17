@@ -17,3 +17,4 @@ function solution_solved(num1, num2) {
 }
 
 
+import { doc, setDoc } from "firebase/firestore";
