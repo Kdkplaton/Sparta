@@ -1,4 +1,4 @@
-// 문제 11 - 
+// 문제 11 - 짝수와 홀수
 
 // 시작 코드
 function solution(num) {
