@@ -1,8 +1,8 @@
 // 문제 11 - 
 
 // 시작 코드
-function solution(n) {
-    var answer = 0;
+function solution(num) {
+    var answer = '';
     return answer;
 }
 
