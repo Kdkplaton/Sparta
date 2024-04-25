@@ -7,7 +7,7 @@ function solution(num1, num2) {
 }
 
 // 해결 코드
-function solution(num1, num2) {
+function solution_solved(num1, num2) {
     var res = parseInt((num1 / num2) * 1000)
     var answer = res;
     return answer;

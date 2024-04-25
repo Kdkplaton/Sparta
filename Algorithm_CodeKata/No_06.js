@@ -1,6 +1,6 @@
-// 문제 3 - 몫 구하기
+// 문제 6 - 
 
-// raw code
+// 시작 코드
 function solution(num1, num2) {
     var answer = -1;
     return answer;

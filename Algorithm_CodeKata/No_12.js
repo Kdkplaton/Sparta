@@ -7,7 +7,7 @@ function solution(num) {
 }
 
 // 해결 코드
-function solution(arr) {
+function solution_solved(arr) {
     var sum = 0;
     for (i=0; i<arr.length; i++) {
         sum += arr[i];

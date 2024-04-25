@@ -7,7 +7,7 @@ function solution(n) {
 }
 
 // 해결 코드
-function solution(n) {
+function solution_solved(n) {
     var res = 0;
     for(var i=0; i<=n; i+=2) {
         res += i;

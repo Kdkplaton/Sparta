@@ -12,7 +12,7 @@ function solution(n)
 }
 
 // 해결 코드
-function solution(n)
+function solution_solved(n)
 {
     var temp = n;
     var sum = 0;

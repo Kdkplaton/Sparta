@@ -7,7 +7,7 @@ function solution(n) {
 }
 
 // 해결 코드
-function solution(n) {
+function solution_solved(n) {
     let sum = 0;
     for(let i=1; i<=n; i++) {
         if(n%i==0) sum += i;

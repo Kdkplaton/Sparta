@@ -7,7 +7,7 @@ function solution(numbers) {
 }
 
 // 해결 코드
-function solution(numbers) {
+function solution_solved(numbers) {
     var sum = 0;
     for(var i =0; i<numbers.length; i++) {
         sum += numbers[i];
