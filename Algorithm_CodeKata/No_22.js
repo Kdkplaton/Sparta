@@ -1,7 +1,7 @@
 // 문제 22 - 두 정수 사이의 합
 
 // 시작 코드
-function solution(s) {
+function solution(a, b) {
     var answer = 0;
     return answer;
 }
