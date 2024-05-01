@@ -1,4 +1,4 @@
-// 문제 25 - 나누어 떨어지는 숫자
+// 문제 25 - 나누어 떨어지는 숫자 배열
 
 // 시작 코드
 function solution(s) {
@@ -7,7 +7,7 @@ function solution(s) {
 }
 
 // 해결 코드
-function solution(arr, divisor) {
+function solution_solved(arr, divisor) {
     let res = "";
     res = arr.filter(num => num%divisor==0);
     if(res == "") res[0] = -1;

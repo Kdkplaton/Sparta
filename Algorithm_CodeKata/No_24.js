@@ -7,7 +7,7 @@ function solution(seouls) {
 }
 
 // 해결 코드
-function solution(seoul) {
+function solution_solved(seoul) {
     let str = "";
     let idx = seoul.indexOf("Kim");
     
