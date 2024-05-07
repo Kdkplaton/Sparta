@@ -7,7 +7,7 @@ function solution(arr) {
 }
 
 // 해결 코드
-function solution(arr) {
+function solution_solved(arr) {
     let tar = Number.MAX_SAFE_INTEGER;
     tar = Math.min(...arr);
     
