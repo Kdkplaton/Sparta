@@ -9,20 +9,16 @@ function solution(strings, n) {
 // 해결 코드
 function solution(strings, n) {
     let temp = strings;
-    console.log(temp);
     
     for(let i=0; i<temp.length; i++) {
         temp[i] = temp[i][n] + temp[i];
     }
-    console.log(temp);
     
     temp.sort();
-    console.log(temp);
     
     for(let i=0; i<temp.length; i++) {
         temp[i] = temp[i].substr(1);
     }
-    console.log(temp);
     
     let answer = temp;
     return answer;
